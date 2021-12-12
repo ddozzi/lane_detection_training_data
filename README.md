@@ -1,5 +1,6 @@
 # lane_detection_training_data
-Training data for my lane detection CNN. Made for my STEM fair project.
+- Training data for my lane detection CNN. Made for my STEM fair project. 
+- The following text explains the training data. An in-depth explanation for my project is available: here.
 
 
 ## Things to note
