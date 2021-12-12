@@ -13,7 +13,7 @@ All of the training data follow the same dictionary format, shown below.
 
 ```
 {
-  'img': [image in saved as a numpy array],
+  'img': [image of a lane saved as a numpy array],
   'right_lane': [6 coordinates that make up the right lane],
   'left_lane': [6 coordinates that make up the left lane]
 }
