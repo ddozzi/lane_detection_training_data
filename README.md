@@ -18,3 +18,6 @@ All of the training data follow the same dictionary format, shown below.
 }
 ```
 this training data was made for a fully-supervised machine learning model. The Google Colab notebook is available: here.
+
+## License 
+GNU General Public License v3.0
